@@ -69,15 +69,14 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=adelh98&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<a href="https://github.com/anuraghazra/github-readme-stats%22%3E
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=olros&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=contribs,stars" />-->
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=adelh98&count_private=true&hide=stars" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat%22%3E
+<a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adelh98&layout=compact" />
-</a>
+</a> 
+
 <br/>  
 
 

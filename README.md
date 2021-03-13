@@ -82,7 +82,9 @@
 ## Recent Blog Posts  
 
 <br/>  
-
+<div>
+  - Thank you for checking out my profile! Have a nice day :)
+</div>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=adelh98&&style=flat-square" align="center" />
 </div>  

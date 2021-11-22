@@ -1,10 +1,10 @@
 ### <div align="center">I'm Adel, a young devolper currently studying IT and Informations-systems at UiA Kristiansand  </div>  
   
 
-- 🌱 I’m currently learning Java, JavaScript, MySQL, HTML, CSS, Go  
+- 🌱 I’m currently learning Java, JavaScript, MySQL, HTML, CSS, PHP  
   
 
-- 📫 How you can reach me: adelh@uia.no  
+- 📫 How you can reach me: adelho98@hotmail.com  
   
 
 - ⚡ Fun fact: I wave to every single car i pass on my drive home :) True story!  
